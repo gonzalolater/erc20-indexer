@@ -29,3 +29,7 @@ Here are a few challenge suggestions:
 # APP
 
 ![image](https://user-images.githubusercontent.com/42863568/215918010-c62a5206-14e1-4172-8f90-cdfeece9fd6e.png)
+
+# Deploy on localhost/:5173
+
+![image](https://user-images.githubusercontent.com/42863568/215919774-b6aa2b35-fb37-41a6-92c2-988d70c99bf4.png)
